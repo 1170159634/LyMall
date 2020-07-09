@@ -1,0 +1,37 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.leyou.config.FilterProperties",
+      "name": "leyou.filter",
+      "type": "com.leyou.config.FilterProperties"
+    },
+    {
+      "sourceType": "com.leyou.config.JwtProperties",
+      "name": "leyou.jwt",
+      "type": "com.leyou.config.JwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.leyou.config.FilterProperties",
+      "name": "leyou.filter.allow-paths",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.leyou.config.JwtProperties",
+      "name": "leyou.jwt.cookie-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.config.JwtProperties",
+      "name": "leyou.jwt.pub-key-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.config.JwtProperties",
+      "name": "leyou.jwt.public-key",
+      "type": "java.security.PublicKey"
+    }
+  ]
+}

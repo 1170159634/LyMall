@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="343ee653-c925-4a0a-9e96-d439e4c06f53" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ly-registry/target/" />
+    <ignored path="$PROJECT_DIR$/ly-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/ly-item/target/" />
+    <ignored path="$PROJECT_DIR$/ly-item/ly-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ly-item/ly-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/ly-common/target/" />
+    <ignored path="$PROJECT_DIR$/ly-upload/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-search/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-goods-web/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-user/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-user/leyou-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-user/leyou-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-sms-service/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-auth/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-auth/leyou-auth-common/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-auth/leyou-auth-service/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-cart/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-order/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/client/UserClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/config/JwtProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/filter/CorsConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/service/AuthService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-140">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-goods-web/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-order/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-search/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-190" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-sms-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>str</find>
+      <find>lom</find>
+      <find>specificationMapper</find>
+      <find>own</find>
+      <find>queryBrandById</find>
+      <find>amqpTemplate</find>
+      <find>querySpuByPage</find>
+      <find>search</find>
+      <find>all</find>
+      <find>goodsPage</find>
+      <find>level</find>
+      <find>specs</find>
+      <find>groups</find>
+      <find>createIndex</find>
+      <find>KEY_PREFIX</find>
+      <find>catch</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>key</replace>
+      <replace>SpecificationMapper</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/config/IdWorkerConfig.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/config/IdWorkerProperties.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/config/JwtProperties.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/config/MvcConfig.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/config/PayConfig.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/config/PayProperties.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/pojo/Order.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/pojo/OrderDetail.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/pojo/OrderStatus.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/utils/PayHelper.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/LyOrderApplication.java" />
+        <option value="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/pojo/Goods.java" />
+        <option value="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" />
+        <option value="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/pojo/SearchResult.java" />
+        <option value="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/service/SearchService.java" />
+        <option value="$PROJECT_DIR$/leyou-sms-service/src/main/java/com/leyou/sms/config/SmsProperties.java" />
+        <option value="$PROJECT_DIR$/leyou-sms-service/src/main/java/com/leyou/sms/listener/SmsListener.java" />
+        <option value="$PROJECT_DIR$/leyou-sms-service/src/main/java/com/leyou/sms/utils/SmsUtils.java" />
+        <option value="$PROJECT_DIR$/leyou-sms-service/src/main/java/com/leyou/sms/LySmsApplication.java" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-interface/src/main/java/com/leyou/user/pojo/User.java" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/user/utils/CodecUtils.java" />
+        <option value="$PROJECT_DIR$/ly-common/src/main/java/com/leyou/common/utils/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/ly-common/src/main/java/com/leyou/common/utils/NumberUtils.java" />
+        <option value="$PROJECT_DIR$/ly-gateway/src/main/java/com/leyou/config/FilterProperties.java" />
+        <option value="$PROJECT_DIR$/ly-gateway/src/main/java/com/leyou/config/JwtProperties.java" />
+        <option value="$PROJECT_DIR$/ly-gateway/src/main/java/com/leyou/filter/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/bo/SpuBo.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Brand.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Category.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Sku.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/SpecGroup.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/SpecParam.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Spu.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/SpuDetail.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Stock.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/service/SpecificationService.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/web/BrandController.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/web/CategoryController.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/web/GoodsController.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/web/SpecificationController.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\newmaven\myrepository" />
+        <option name="mavenHome" value="E:/06.互联网架构阶段/06. 互联网架构阶段【北京尚学堂·百战程序员】/2. Maven技术/文档代码/01 资料/03 maven软件/apache-maven-3.3.3-bin/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="D:\newmaven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leyou" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ly-upload" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ly-upload" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="515" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-item-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="15" />
+    <property name="RequestMappingsPanelWidth1" value="15" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/.." />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ly-common/src/main/java/com/leyou/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.leyou.search.client" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leyou.filter" />
+      <recent name="com.leyou.auth.filter" />
+      <recent name="com.leyou.user.filter" />
+      <recent name="com.leyou.search.filter" />
+      <recent name="com.leyou.config" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\leyou\leyou-order\src" />
+      <recent name="D:\idea\leyou\leyou-cart\src" />
+      <recent name="D:\idea\leyou\ly-gateway\src\main\java\com\leyou" />
+      <recent name="D:\idea\leyou\ly-gateway\src\main\java\com\leyou\config" />
+      <recent name="D:\idea\leyou\leyou-auth\leyou-auth-service\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.17554645" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.LyGoodsWebApplication">
+    <configuration name="CategoryClientTest.testQueryCategories" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyou-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.search.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.search.client" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.search.client.CategoryClientTest" />
+      <option name="METHOD_NAME" value="testQueryCategories" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticsearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyou-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.search.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.search.client" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.search.client.ElasticsearchTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticsearchTest.createIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyou-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.search.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.search.client" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.search.client.ElasticsearchTest" />
+      <option name="METHOD_NAME" value="createIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticsearchTest.loadData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyou-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.search.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.search.client" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.search.client.ElasticsearchTest" />
+      <option name="METHOD_NAME" value="loadData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecGroupMapperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ly-item-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpecGroupMapperTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.auth.LyAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.cart.LyCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyGoodsWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-goods-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyGoodsWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyRegistry" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lyregistry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyRegistry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LySearchService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.search.LySearchService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LySmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-sms-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.sms.LySmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyUploadService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyUploadService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.user.LyUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lyGateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.lyGateway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lyItemService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.lyItemService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpecGroupMapperTest.test" />
+      <item itemvalue="JUnit.CategoryClientTest.testQueryCategories" />
+      <item itemvalue="JUnit.ElasticsearchTest.createIndex" />
+      <item itemvalue="JUnit.ElasticsearchTest.loadData" />
+      <item itemvalue="JUnit.ElasticsearchTest" />
+      <item itemvalue="Spring Boot.LyRegistry" />
+      <item itemvalue="Spring Boot.LyUploadService" />
+      <item itemvalue="Spring Boot.lyGateway" />
+      <item itemvalue="Spring Boot.lyItemService" />
+      <item itemvalue="Spring Boot.LySearchService" />
+      <item itemvalue="Spring Boot.LyGoodsWebApplication" />
+      <item itemvalue="Spring Boot.LyUserApplication" />
+      <item itemvalue="Spring Boot.LySmsApplication" />
+      <item itemvalue="Spring Boot.LyAuthApplication" />
+      <item itemvalue="Spring Boot.LyCartApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElasticsearchTest" />
+        <item itemvalue="JUnit.ElasticsearchTest.createIndex" />
+        <item itemvalue="JUnit.ElasticsearchTest.loadData" />
+        <item itemvalue="JUnit.CategoryClientTest.testQueryCategories" />
+        <item itemvalue="JUnit.SpecGroupMapperTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="343ee653-c925-4a0a-9e96-d439e4c06f53" name="Default Changelist" comment="" />
+      <created>1584929481302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584929481302</updated>
+      <workItem from="1584929485948" duration="754000" />
+      <workItem from="1584930592596" duration="11060000" />
+      <workItem from="1584954829658" duration="5954000" />
+      <workItem from="1585111532979" duration="12269000" />
+      <workItem from="1585195294193" duration="9754000" />
+      <workItem from="1585275906889" duration="4094000" />
+      <workItem from="1585309808227" duration="3682000" />
+      <workItem from="1585338765505" duration="1389000" />
+      <workItem from="1585340609027" duration="12252000" />
+      <workItem from="1585403170763" duration="7050000" />
+      <workItem from="1585464551671" duration="12625000" />
+      <workItem from="1585540139565" duration="6515000" />
+      <workItem from="1585813336633" duration="6464000" />
+      <workItem from="1585889453699" duration="15107000" />
+      <workItem from="1585905470837" duration="4110000" />
+      <workItem from="1585965723782" duration="8346000" />
+      <workItem from="1585980701271" duration="11278000" />
+      <workItem from="1585999925183" duration="3820000" />
+      <workItem from="1586159578809" duration="3026000" />
+      <workItem from="1586253344802" duration="4079000" />
+      <workItem from="1586330096734" duration="4332000" />
+      <workItem from="1586409308157" duration="4160000" />
+      <workItem from="1586450967674" duration="2519000" />
+      <workItem from="1586510789756" duration="3824000" />
+      <workItem from="1586532571413" duration="2225000" />
+      <workItem from="1586583754397" duration="312000" />
+      <workItem from="1586584168373" duration="293000" />
+      <workItem from="1586584600700" duration="193000" />
+      <workItem from="1586584976247" duration="100000" />
+      <workItem from="1586585151470" duration="12037000" />
+      <workItem from="1586603921504" duration="2680000" />
+      <workItem from="1586620583346" duration="5521000" />
+      <workItem from="1586677727631" duration="1807000" />
+      <workItem from="1586706701433" duration="1809000" />
+      <workItem from="1586747701580" duration="1098000" />
+      <workItem from="1586762754978" duration="1210000" />
+      <workItem from="1591072478963" duration="109000" />
+      <workItem from="1591072714322" duration="65000" />
+      <workItem from="1594271675810" duration="863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ElasticsearchTest_loadData - 2020.04.03 at 15h 57m 30s.xml">
+      <configuration name="ElasticsearchTest.loadData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticsearchTest_loadData - 2020.04.04 at 16h 24m 13s.xml">
+      <configuration name="ElasticsearchTest.loadData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticsearchTest_loadData - 2020.04.04 at 16h 25m 18s.xml">
+      <configuration name="ElasticsearchTest.loadData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticsearchTest_createIndex - 2020.04.04 at 16h 42m 14s.xml">
+      <configuration name="ElasticsearchTest.createIndex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticsearchTest - 2020.04.04 at 16h 48m 43s.xml">
+      <configuration name="ElasticsearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticsearchTest - 2020.04.04 at 16h 49m 53s.xml">
+      <configuration name="ElasticsearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticsearchTest - 2020.04.04 at 16h 54m 31s.xml">
+      <configuration name="ElasticsearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticsearchTest - 2020.04.04 at 16h 55m 16s.xml">
+      <configuration name="ElasticsearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticsearchTest - 2020.04.04 at 16h 58m 10s.xml">
+      <configuration name="ElasticsearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticsearchTest - 2020.04.04 at 17h 00m 51s.xml">
+      <configuration name="ElasticsearchTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="188785000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4955947" visible="true" weight="0.30093834" />
+      <window_info id="Structure" order="1" sideWeight="0.50440526" side_tool="true" weight="0.28954422" />
+      <window_info id="设计师" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.3297587" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="Designer" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.407355" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43847242" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.35643566" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="16" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" sideWeight="0.49932975" visible="true" weight="0.3493635" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-gateway/src/main/java/com/leyou/filter/LoginFilter.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ly-gateway/src/main/java/com/leyou/config/JwtProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-gateway/src/main/java/com/leyou/filter/LoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-gateway/src/main/java/com/leyou/lyGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/api/BrandApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/api/CategoryApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/api/GoodsApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/bo/SpuBo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/api/SpecificationApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Sku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/SpecGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/SpecParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Spu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/SpuDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/mapper/BrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/mapper/CategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/mapper/SkuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/mapper/SpecGroupMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/mapper/SpecParamMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/mapper/SpuDetailMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/mapper/SpuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/mapper/StockMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/service/BrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#2892#2893#0" expanded="true" />
+            <element signature="e#2951#2952#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/service/SpecificationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/web/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/web/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/web/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/web/SpecificationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/lyItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-registry/src/main/java/com/leyou/LyRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-upload/src/main/java/com/leyou/config/FastClientImporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-upload/src/main/java/com/leyou/config/GlobalCorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-upload/src/main/java/com/leyou/service/UploadService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-upload/src/main/java/com/leyou/controller/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-upload/src/main/java/com/leyou/LyUploadService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-upload/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/client/UserClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/config/JwtProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/filter/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/service/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-goods-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-order/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-search/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-sms-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ly-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
